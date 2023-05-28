@@ -309,3 +309,10 @@ SQL.
 - [ZetCode sqlite3 Tutorial](http://zetcode.com/db/sqlite/)
 
 [sqlite vscode]: https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite
+
+
+
+
+
+
+<!-- The setup is ready  -->
